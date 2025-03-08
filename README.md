@@ -8,3 +8,6 @@
 ![image](https://github.com/user-attachments/assets/6bcb2e41-acc6-4ad8-a73b-94a83702fbf0)
 ![image](https://github.com/user-attachments/assets/4c9f213e-a64b-4886-b17d-b886a538aee2)
 
+# Engineering process 
+![WhatsApp Image 2025-03-01 at 22 49 51_11bdd7ef](https://github.com/user-attachments/assets/b22ec5a0-0013-4937-92b5-a22c30601197)
+
