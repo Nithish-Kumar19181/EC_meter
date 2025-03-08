@@ -1,4 +1,5 @@
 # EC_meter
+![EC_meter v1](https://github.com/user-attachments/assets/a071d3d6-29ba-48c5-9f31-b65b060eb56f)
 ![image](https://github.com/user-attachments/assets/4a031bec-71d6-4953-8d26-e01d9871f46a)
 
 # Schematic 
