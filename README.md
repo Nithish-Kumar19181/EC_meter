@@ -1,7 +1,9 @@
 # EC_meter
 
 # EC_meter Corrected schematic 
-[image](https://github.com/user-attachments/assets/a9a88cb3-8c2e-444f-9904-80ae7ce78390)
+
+![image](https://github.com/user-attachments/assets/fe0e1ec9-3c02-4f7e-964f-1470b3e62619)
+
 ![image](https://github.com/user-attachments/assets/eaf8f486-ef6d-430f-b4aa-d55d2e744c7a)
 
 
